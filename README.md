@@ -1,0 +1,1 @@
+This Node.js application utilizes the fs package and Neon Tech database to efficiently read and compare data from a CSV file. It automatically updates, deletes, or adds records in the database as needed, ensuring data consistency. Easily manage and synchronize your database with external CSV files.
